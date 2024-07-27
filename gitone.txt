@@ -1,2 +1,7 @@
-txt file created using touch command , and opened to append using nano command.
+
+
+txt file created using touch command , 
+and opened to append using nano command.
+
+so far used nano, git commit, git status.
 
